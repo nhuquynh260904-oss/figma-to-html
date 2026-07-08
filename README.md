@@ -3,3 +3,6 @@
 *link Figma dự án :
 
 https://www.figma.com/file/3kHcuu3c8fvhnA2q2wUwBM/
+
+*Kết Quá:
+https://nhuquynh260904-oss.github.io/figma-to-html/
